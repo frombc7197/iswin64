@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1405929633 source:d:\etc\judgewin64\iswin64.cpp
+	"IsWin64.h"
+
+1405929973 d:\etc\judgewin64\iswin64.h
+	<Windows.h>
+
